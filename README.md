@@ -1,2 +1,5 @@
-# test_web_auth
-Проектное задание
+# Web with Django project
+
+Root account:
+- user: admin
+- password: root
